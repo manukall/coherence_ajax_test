@@ -1,0 +1,6 @@
+secret!
+
+<script type="text/javascript">
+ $.get('/api/ajax_stuff');
+ $.get('/api/ajax_stuff');
+</script>
