@@ -38,7 +38,7 @@ defmodule CoherenceAjaxTest.Mixfile do
      {:phoenix_live_reload, "~> 1.0", only: :dev},
      {:gettext, "~> 0.11"},
      {:cowboy, "~> 1.0"},
-     {:coherence, "~> 0.3"}]
+     {:coherence, github: "smpallen99/coherence", ref: "2af3df05b65157f5f6b529c590f58269b19942e5"}]
   end
 
   # Aliases are shortcuts or tasks specific to the current project.
